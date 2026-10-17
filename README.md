@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ☾ Rifa Jahan Rifa
+# ☾ RIFAT JAHAN RIFA 
 
 ### `Data Science Student` · `Aspiring Researcher`
 
