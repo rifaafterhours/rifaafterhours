@@ -46,6 +46,17 @@ I believe every dataset has a story, every project is a chance to grow, and ever
 
 ---
 
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifat-jahan-rifa-350b0642a/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifatjahanrifa009@gmail.com)
+
+</div>
+
+
 <div align="center">
 
 ### ✧ Thanks for visiting my little corner of GitHub ✧
